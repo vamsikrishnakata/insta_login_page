@@ -1,0 +1,114 @@
+/*body{
+    background-image: url(instabg.jpg)
+}*/
+
+*{
+    padding: 0;
+    margin:0;
+}
+
+
+#middle #box{
+    width: 350px;
+    height: 410px;
+    border: 0.5px solid black;
+    margin-top: 25px;
+    margin-left: 580px;
+     
+}
+
+ #middle #box #logo img{
+    width:200px;
+    height: 70px;
+   
+}
+
+ #middle #box #logo{
+    position: absolute;
+    top: 70px;
+    left:655px;
+}
+#middle #box input[type=text1]{
+    width: 270px;
+    height: 35px;
+    margin-top: 140px;
+    margin-left: 35px;
+    
+}
+
+#middle #box input[type=text2]{
+    width: 270px;
+    height:35px;
+    margin-top: 10px;
+    margin-left:35px ;
+    
+}
+
+ #middle #box input[type=button]{
+    width: 78%;
+    height:30px;
+    background-color: rgb(75, 170, 244);
+    margin-top: 26px;
+    margin-left: 34px;
+    border-radius:6px;
+    border: none;
+    font-size: large;
+    color: white;
+}
+ 
+hr{
+    width:300px;
+    margin-left:21px;
+}
+
+#middle #box #login a{
+   text-decoration: none;
+   font-size: medium;
+   color:rgb(75, 172, 244);
+   
+}
+
+#middle #box #forgot a{
+    font-size: medium;
+    text-decoration: none;
+    color: black;
+}
+#middle #box #forgot a:hover{
+    text-decoration: underline;
+}
+
+#middle #box2{
+    width:350px;
+    height:60px;
+    border: 0.5px solid black;
+    margin-top: 21px;
+    margin-left: 580px;
+}
+ 
+#middle #box2 a{
+    color: #007bff; 
+    text-decoration: none; 
+    margin-left:5px;
+}
+
+#middle #box2 a:hover{
+    text-decoration: underline; 
+}
+
+#middle #box2 p{
+    font-size: medium;
+    margin-top: 20px;
+    margin-left:60px;
+}
+
+#middle p{
+    margin-top: 5px;
+    font-size: large;
+}
+
+#middle #app img{
+    width: 300px;
+    height:60px;
+    margin-left:605px;
+    margin-top:21px;
+}
